@@ -37,7 +37,7 @@
 
           <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
-              <li><a class="nav-link scrollto" href="index.php">Home</a></li>
+              <li><a class="nav-link scrollto" href="beranda.php">Home</a></li>
               <li><a class="nav-link scrollto" href="#hero">About</a></li>
               <li><a class="nav-link scrollto" href="chatOnline.php">Chat</a></li>
             </ul>

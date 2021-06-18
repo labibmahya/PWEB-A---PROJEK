@@ -214,7 +214,7 @@
               <div class="card-body">
                 <h5 class="text-center mt-3"><a href="" style="text-decoration:None; color:black;">Inilah Manfaat Kunyit untuk Jerawat dan Cara Penggunaanya</a></h5>
                 <p class="card-text">Khasiat kunyit untuk jerawat patut untuk dicoba. Namun, penggunaan kunyit untuk mengatasi jerawat perlu dilakukan . . .</p>
-                <a href="controlers/get_artikel.php" class="get-btn scrollto">Baca Selengkapnya</a>
+                <a href="artikel1.php" class="get-btn scrollto">Baca Selengkapnya</a>
               </div>
             </div>
           </div>
@@ -224,7 +224,7 @@
               <div class="card-body">
                 <h5 class="text-center mt-2"><a href="" style="text-decoration:None; color:black;">6 Manfaat Buah Rambutan untuk Kesehatan</a></h5>
                 <p class="card-text">Manfaat rambutan untuk kesehatan cukup beragam. Buah yang rasanya manis ini baik dikonsumsi untuk melancarkan . . .</p>
-                <a href="controlers/get_artikel1.php" class="get-btn scrollto">Baca Selengkapnya</a>
+                <a href="artikel2.php" class="get-btn scrollto">Baca Selengkapnya</a>
               </div>
             </div>
           </div>
@@ -234,7 +234,7 @@
               <div class="card-body">
                 <h5 class="text-center mt-2"><a href="" style="text-decoration:None; color:black;">4 Cara Mengencangkan Kulit Wajah secara Alami</a></h5>
                 <p class="card-text">Cara mengencangkan kulit wajah dapat dilakukan dengan bantuan obat-obatan maupun tindakan medis. Namun . . .</p>
-                <a href="controlers/get_artikel2.php" class="get-btn scrollto">Baca Selengkapnya</a>
+                <a href="artikel3.php" class="get-btn scrollto">Baca Selengkapnya</a>
               </div>
             </div>
           </div>

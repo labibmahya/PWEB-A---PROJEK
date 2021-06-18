@@ -34,12 +34,9 @@
       <div class="row justify-content-center">
         <div class="col-xl-9 d-flex align-items-center justify-content-lg-between">
           <h1 class="logo me-auto me-lg-0"><a href="index.html">Healthy</a></h1>
-          <!-- Uncomment below if you prefer to use an image logo -->
-          <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
           <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
-              <li><a class="nav-link scrollto " href="beranda.php">Home</a></li>
+              <li><a class="nav-link scrollto " href="index.php">Home</a></li>
               <li><a class="nav-link scrollto" href="about.php">About</a></li>
               <li><a class="nav-link scrollto" href="#Chat">Chat</a></li>
           </nav><!-- .navbar -->
@@ -58,7 +55,7 @@
     <h1>Belum Punya Akun ??</h1>
     <h4 class="mt-5">Login terlebih dahulu </h4>
     <h4>untuk melakukan Chat Online</h4>
-    <a href="login.php" class="get-btn scrollto">Login Sekarang</a>
+    <a href="login.php" class="get-btn scrollto">Login Sekaran</a>
 
 
     </div>
